@@ -77,3 +77,50 @@ int maxDepth(struct TreeNode* root)
 	return checkDepth(root, 0);
 }
 ```
+
+## Python3 Iterative
+
+So this solution utilizes a queue to iterate through a tree. We start off by checking if the root is None, and if so it's balanced. Then we initialize the queue, and append the children of the root to the queue, and begin iterating through the tree. 
+
+The queue contains all of the nodes that need to be analyzes, so when the queue is empty we have analyzed the entire tree. Each iteration of the loop will look at two nodes, which are opposite each other (since in order for the tree to be balanced, these two nodes will have the same value). The first check is if they are both None, since if they are this part of the tree is balanced. Then after that we check if either node is None, since if one is None and one isn't, then it isn't balanced. Then we check if the values are equal, and if they are this part of the tree is balanced. Proceeding that we append the children of those two nodes to the queue. We append the opposite children, that way the queue is structured in a way where the two nodes that must be equal in order for the tree to be symmetrical are right next to each other in the queue. This alogorithm will iterate through all of the nodes of one level, before proceeding to the next level.
+
+The runtime requirement is `O(n)`, since the number of loop iterations directly scales with the number of nodes in a linear fashion. The major space requirment comes from the queue, which the space that takes up also directly scales with the number of nodes. As such the space complexity is `O(n)`
+
+```
+class Solution:
+    def isSymmetric(self, root: TreeNode) -> bool:
+        if root == None:
+            return True
+        
+        queue = []
+        
+        queue.append(root.left)
+        queue.append(root.right)
+        
+        while queue != []:
+            # Pop off the first two elements
+            left = queue.pop()
+            right = queue.pop()
+            
+            # If both are none, this part is balanced
+            if (left == right == None):
+                continue
+            
+            # If only one node is none, tree is not balanced
+            if (left == None) or (right == None):
+                return False
+            
+            # If the node values are not equal, not balanced
+            if (left.val != right.val):
+                return False
+            
+            # Add the children to the queue
+            queue.append(left.left)
+            queue.append(right.right)
+            
+            queue.append(left.right)
+            queue.append(right.left)
+        
+        # Iterated through entire tree, so it's balanced
+        return True
+```
