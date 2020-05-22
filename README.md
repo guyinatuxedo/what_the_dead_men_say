@@ -43,4 +43,8 @@ Linked Lists
 142 Linked List Cycle II
 	-	Python3 Hash Table Iteration
 	-	Python3 "Circular" nodes
+
+143 Reorder List
+	-	Python3 Iterative Solution
+	-	Python3 List Manipulation
 ```
