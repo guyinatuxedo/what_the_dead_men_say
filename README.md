@@ -21,7 +21,13 @@ Index
 
 ```
 Number Manipulation
+001 Two Sum
+	-	Java hashmap 2-pass
+	-	Java hashmap 1-pass
 
+002 Add Two Numbers
+	-	Java Iterative
+	
 136 Single Number
 	-	Python3 Hashmap
 	-	Python3 Xor Solution
@@ -29,6 +35,10 @@ Number Manipulation
 137 Single Number
 	-	Python3 Hashmap
 	-	Python3 Xor/And/Not Solution
+
+217 Contains Duplicate
+	-	Python3 Hashmap
+	-	Java Sorting
 
 Linked Lists
 
@@ -47,4 +57,12 @@ Linked Lists
 143 Reorder List
 	-	Python3 Iterative Solution
 	-	Python3 List Manipulation
+
+203 Remove Linked List Elements
+	-	Java Iterative
+	-	Java Sentinel Node
+
+206 Reverse List
+	-	Java Iterative O(1) memory
+	-	Java Recursive
 ```
