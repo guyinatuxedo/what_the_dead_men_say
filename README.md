@@ -28,6 +28,18 @@ Number Manipulation
 002 Add Two Numbers
 	-	Java Iterative
 	
+007	Integer Reversal
+	-	Java Math
+	-	Java Type Conversion
+
+009 Integer Palindrome
+	-	Java Integer Reversal
+	-	Java Half Integer Reversal
+
+066 Plus One
+	-	Java Math
+	-	Java One Based Math (not numerical base)
+
 136 Single Number
 	-	Python3 Hashmap
 	-	Python3 Xor Solution
@@ -36,9 +48,41 @@ Number Manipulation
 	-	Python3 Hashmap
 	-	Python3 Xor/And/Not Solution
 
+190 Bit Reversal
+	-	Java Bit Reversal
+
+192 Number of 1 Bits
+	-	Java Bit Iteration
+	-	Java Anding Bit Manipulation
+
 217 Contains Duplicate
 	-	Python3 Hashmap
 	-	Java Sorting
+
+
+String Manipulation
+003 Longest Substring Without Repeating Characters
+	-	Java Sliding Window
+	-	Java Sliding Window Optimized
+
+008 atoi implementation
+	-	Java Iterative Ascii Math
+
+Grid problems
+
+062 Unique Paths
+	-	Java Dynamic Programming
+
+
+Lists
+
+035 Search Insert Position
+	-	Java Iterative Search
+	-	Java Binary Search
+
+061 Rotate List
+	-	Java Loop/Break
+
 
 Linked Lists
 
