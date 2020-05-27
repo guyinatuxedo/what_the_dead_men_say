@@ -51,7 +51,7 @@ Number Manipulation
 190 Bit Reversal
 	-	Java Bit Reversal
 
-192 Number of 1 Bits
+191 Number of 1 Bits
 	-	Java Bit Iteration
 	-	Java Anding Bit Manipulation
 
