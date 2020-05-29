@@ -73,6 +73,11 @@ Grid problems
 062 Unique Paths
 	-	Java Dynamic Programming
 
+200 Number of Islands
+	-	Java Depth First Search
+	-	Java Breadth First Search
+
+	
 
 Lists
 
