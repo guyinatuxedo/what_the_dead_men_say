@@ -68,6 +68,9 @@ String Manipulation
 008 atoi implementation
 	-	Java Iterative Ascii Math
 
+020 Valid Parenthesis
+	-	Java Stack
+
 Grid problems
 
 062 Unique Paths
@@ -114,4 +117,12 @@ Linked Lists
 206 Reverse List
 	-	Java Iterative O(1) memory
 	-	Java Recursive
+
+
+
+Misc
+
+146 LRU Cache
+	-	Java LinkedHashMap
+	-	Python OrderedDict
 ```
