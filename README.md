@@ -36,6 +36,9 @@ Number Manipulation
 	-	Java Integer Reversal
 	-	Java Half Integer Reversal
 
+015 Three Sum
+	-	Java hashmap
+
 066 Plus One
 	-	Java Math
 	-	Java One Based Math (not numerical base)
@@ -71,6 +74,10 @@ String Manipulation
 020 Valid Parenthesis
 	-	Java Stack
 
+
+
+
+
 Grid problems
 
 062 Unique Paths
@@ -80,13 +87,18 @@ Grid problems
 	-	Java Depth First Search
 	-	Java Breadth First Search
 
-	
+994 Rotting Oranges
+	-	Javae Breadth First Search
 
 Lists
 
 035 Search Insert Position
 	-	Java Iterative Search
 	-	Java Binary Search
+
+053 Maximum Subarray
+	-	Java Greedy Algorithm
+	-	Java Dynamic Programming
 
 061 Rotate List
 	-	Java Loop/Break
@@ -117,6 +129,10 @@ Linked Lists
 206 Reverse List
 	-	Java Iterative O(1) memory
 	-	Java Recursive
+
+238 product of array except self
+	-	Java Multi-Array Pass
+	-	Java Array Optimized
 
 
 
