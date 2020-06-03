@@ -74,6 +74,11 @@ String Manipulation
 020 Valid Parenthesis
 	-	Java Stack
 
+125 Valid Palindrome
+	-	Java Two Indices
+
+1108 Defang IP
+	-	Python3 split / join
 
 
 
@@ -92,9 +97,15 @@ Grid problems
 
 Lists
 
+021 Merge Two Sorted Lists
+	-	Jave Iteration
+
 035 Search Insert Position
 	-	Java Iterative Search
 	-	Java Binary Search
+
+042 Trapping Rain Water
+	-	Java Dynamic Programming
 
 053 Maximum Subarray
 	-	Java Greedy Algorithm
@@ -102,6 +113,10 @@ Lists
 
 061 Rotate List
 	-	Java Loop/Break
+
+121 Best Time to Buy and Sell Stock
+	-	Java Iteration
+
 
 
 Linked Lists
@@ -141,4 +156,7 @@ Misc
 146 LRU Cache
 	-	Java LinkedHashMap
 	-	Python OrderedDict
+
+022 Generate Parentheses
+	-	Java Backtracking
 ```
