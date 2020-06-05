@@ -74,8 +74,14 @@ String Manipulation
 020 Valid Parenthesis
 	-	Java Stack
 
+043 Multiply Strings
+	-	Java "By Hand"
+
 125 Valid Palindrome
 	-	Java Two Indices
+	
+415 Add Strings
+	-	Java Iteration
 
 1108 Defang IP
 	-	Python3 split / join
@@ -95,10 +101,16 @@ Grid problems
 994 Rotting Oranges
 	-	Javae Breadth First Search
 
+
+
 Lists
 
 021 Merge Two Sorted Lists
 	-	Jave Iteration
+
+027 Remove Element
+	-	Java Double Pass
+	-	Java Single Pass
 
 035 Search Insert Position
 	-	Java Iterative Search
@@ -120,6 +132,9 @@ Lists
 
 
 Linked Lists
+
+019 Remove Nth Node from End of List
+	-	Java Single Pass
 
 138	Copy List with Random Pointer
 	-	Python3 Recursive
