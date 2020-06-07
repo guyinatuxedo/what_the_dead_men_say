@@ -17,6 +17,14 @@ Index
 110 Balanced Binary Tree
 111 Minimum Depth of Binary Tree
 112 Path Sum
+
+0116 Populating Next Right Pointers in Each Node
+	-	Java Queues
+	-	Java Two Ptrs
+
+0117 Populating Next Right Pointers in Each Node II
+	-	Java Queues
+	-	Java Two Ptrs
 ```
 
 ```
@@ -51,6 +59,9 @@ Number Manipulation
 	-	Python3 Hashmap
 	-	Python3 Xor/And/Not Solution
 
+0179 Largest Number
+	-	Java String Conversion / Comparison
+
 190 Bit Reversal
 	-	Java Bit Reversal
 
@@ -61,6 +72,9 @@ Number Manipulation
 217 Contains Duplicate
 	-	Python3 Hashmap
 	-	Java Sorting
+
+1304 Find N Unique Integers Sum up to Zero
+	-	Java Summation
 
 
 String Manipulation
@@ -79,6 +93,10 @@ String Manipulation
 
 125 Valid Palindrome
 	-	Java Two Indices
+
+0151 Reverse Words in String
+	-	Java Iterate through String
+	-	Java Simple Solution
 	
 415 Add Strings
 	-	Java Iteration
@@ -166,6 +184,11 @@ Linked Lists
 
 
 
+Math
+
+0204 Count Primes
+	-	Java Sieve of Eratosthenes
+
 Misc
 
 146 LRU Cache
@@ -174,4 +197,25 @@ Misc
 
 022 Generate Parentheses
 	-	Java Backtracking
+
+1436 Destination City
+	-	Java hashSet
+
+Stacks
+0232 Implement Queue using Stacks
+	-	Java Two Stacks
+	-	Java Two Stack Optimized
+```
+
+
+List of Topics to cover:
+
+```
+Graphs
+Dynamic Programming
+Treaps
+Djikstras
+Backtracking
+Grids
+Fibbonachi
 ```
