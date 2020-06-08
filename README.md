@@ -121,7 +121,7 @@ Grid problems
 
 
 
-Lists
+Lists/Arrays
 
 021 Merge Two Sorted Lists
 	-	Jave Iteration
@@ -147,12 +147,18 @@ Lists
 121 Best Time to Buy and Sell Stock
 	-	Java Iteration
 
+1313
+	-	Java Array Construction
+
 
 
 Linked Lists
 
 019 Remove Nth Node from End of List
 	-	Java Single Pass
+
+0025 Reverse K elements of linked list
+	-	Java Iteration Linked Lists
 
 138	Copy List with Random Pointer
 	-	Python3 Recursive
@@ -182,12 +188,18 @@ Linked Lists
 	-	Java Multi-Array Pass
 	-	Java Array Optimized
 
-
+1290 Convert Binary Number in a Linked List to Integer
+	-	Java Linked List Iteration
+	-	Java Math
 
 Math
 
 0204 Count Primes
 	-	Java Sieve of Eratosthenes
+
+0509 Fibonacci Number
+	-	Java Recursion
+	-	Java Iterative
 
 Misc
 
@@ -205,6 +217,16 @@ Stacks
 0232 Implement Queue using Stacks
 	-	Java Two Stacks
 	-	Java Two Stack Optimized
+
+
+Sorting
+
+0033 Search in Rotated Sorted Array
+	-	Java Two Binary Searches
+
+0075 Sort Colors
+	-	Java Two Pass Counting Sort
+	-	Java One Pass Dutch National Flag Problem
 ```
 
 
