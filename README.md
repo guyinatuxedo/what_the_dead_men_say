@@ -85,6 +85,10 @@ String Manipulation
 008 atoi implementation
 	-	Java Iterative Ascii Math
 
+0017 Letter Combinations of a Phone Number
+	-	Java Combination Construction
+	-	Java Recursive Branching
+
 020 Valid Parenthesis
 	-	Java Stack
 
@@ -101,6 +105,9 @@ String Manipulation
 415 Add Strings
 	-	Java Iteration
 
+0443 String Compression
+	-	Java Single Pass
+
 1108 Defang IP
 	-	Python3 split / join
 
@@ -111,6 +118,9 @@ Grid problems
 
 062 Unique Paths
 	-	Java Dynamic Programming
+
+0074 Grids
+	-	Double Binary Search
 
 200 Number of Islands
 	-	Java Depth First Search
@@ -146,6 +156,10 @@ Lists/Arrays
 
 121 Best Time to Buy and Sell Stock
 	-	Java Iteration
+
+0724 Find Pivot Index
+	-	Java Three Pass
+	-	Java Prefix Sum
 
 1313
 	-	Java Array Construction
