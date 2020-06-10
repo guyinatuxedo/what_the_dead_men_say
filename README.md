@@ -157,6 +157,16 @@ Lists/Arrays
 121 Best Time to Buy and Sell Stock
 	-	Java Iteration
 
+0134 Gas Station
+	-	Java One Pass
+
+0160 Intersection of Two Linked Lists
+	-	Java hashSet
+	-	Java two ptrs
+
+0189 Rotate Array
+	-	Java Cycle Replacements
+
 0724 Find Pivot Index
 	-	Java Three Pass
 	-	Java Prefix Sum
@@ -241,6 +251,10 @@ Sorting
 0075 Sort Colors
 	-	Java Two Pass Counting Sort
 	-	Java One Pass Dutch National Flag Problem
+
+0702 Search in a Sorted Array of Unknown Size
+	-	Java Binary Search Boundary Detection
+	-	Java Binary Search Logarithmic Boundary Detection
 ```
 
 
