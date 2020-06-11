@@ -126,6 +126,9 @@ Grid problems
 	-	Java Depth First Search
 	-	Java Breadth First Search
 
+0832 Flipping an Image
+	-	Java Iterate through 2D Array
+
 994 Rotting Oranges
 	-	Javae Breadth First Search
 
@@ -221,6 +224,10 @@ Math
 0204 Count Primes
 	-	Java Sieve of Eratosthenes
 
+0252 Meeting Rooms
+	-	Java HashSet
+	-	Java Sorting
+
 0509 Fibonacci Number
 	-	Java Recursion
 	-	Java Iterative
@@ -255,6 +262,12 @@ Sorting
 0702 Search in a Sorted Array of Unknown Size
 	-	Java Binary Search Boundary Detection
 	-	Java Binary Search Logarithmic Boundary Detection
+
+
+BackTracking
+
+0046 Permutations
+	-	Java Backtracking
 ```
 
 
