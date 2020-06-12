@@ -1,5 +1,13 @@
 # what_the_dead_men_say
 
+total 64/247
+
+h 2/47
+
+m 32/138
+
+h 30/62
+
 
 Index
 
@@ -139,6 +147,9 @@ Lists/Arrays
 021 Merge Two Sorted Lists
 	-	Jave Iteration
 
+0026 Remove Duplicates from Sorted Array
+	-	Java Three Indices w Prev Value 
+
 027 Remove Element
 	-	Java Double Pass
 	-	Java Single Pass
@@ -157,6 +168,10 @@ Lists/Arrays
 061 Rotate List
 	-	Java Loop/Break
 
+0088 Merge Sorted Array
+	-	Java 3 Indices New Array Merge
+	-	Java 3 Indices Backwards Merge
+
 121 Best Time to Buy and Sell Stock
 	-	Java Iteration
 
@@ -166,6 +181,10 @@ Lists/Arrays
 0160 Intersection of Two Linked Lists
 	-	Java hashSet
 	-	Java two ptrs
+
+0169 Majority Element
+	-	Java HashMap Iterative
+	-	Java Sorting
 
 0189 Rotate Array
 	-	Java Cycle Replacements
@@ -211,6 +230,9 @@ Linked Lists
 	-	Java Iterative O(1) memory
 	-	Java Recursive
 
+0234 Palindrome Linked List
+	-	Java Two Pointers List Reversal
+
 238 product of array except self
 	-	Java Multi-Array Pass
 	-	Java Array Optimized
@@ -220,6 +242,10 @@ Linked Lists
 	-	Java Math
 
 Math
+
+069	Sqrt(x)
+	-	Java Linear Pass
+	-	Java Binary Search
 
 0204 Count Primes
 	-	Java Sieve of Eratosthenes
@@ -262,6 +288,10 @@ Sorting
 0702 Search in a Sorted Array of Unknown Size
 	-	Java Binary Search Boundary Detection
 	-	Java Binary Search Logarithmic Boundary Detection
+
+0977 Squares of a Sorted Array
+	-	Java Sorting
+	-	Java Two Pointers
 
 
 BackTracking
