@@ -1,12 +1,12 @@
 # what_the_dead_men_say
 
-total 64/247
+total 71/247
 
-h 2/47
+h 4/47
 
-m 32/138
+m 34/138
 
-h 30/62
+e 33/62
 
 
 Index
@@ -25,6 +25,10 @@ Index
 110 Balanced Binary Tree
 111 Minimum Depth of Binary Tree
 112 Path Sum
+
+0226 Invert Binary Tree
+	-	Java Recursive
+	-	Java Iterative
 
 0116 Populating Next Right Pointers in Each Node
 	-	Java Queues
@@ -110,11 +114,20 @@ String Manipulation
 	-	Java Iterate through String
 	-	Java Simple Solution
 	
+0205 Isomorphic Strings
+	-	Java HashMaps and Array
+
+0387 First Unique Character in a String
+	-	Java Linear Pass Hashmap
+
 415 Add Strings
 	-	Java Iteration
 
 0443 String Compression
 	-	Java Single Pass
+
+0692 Top K Frequent Words
+	-	Java HashMap and MinHeap PriorityQueue
 
 1108 Defang IP
 	-	Python3 split / join
@@ -124,21 +137,33 @@ String Manipulation
 
 Grid problems
 
+0054 Spiral Matrix
+	-	Java Grid iteration
+
 062 Unique Paths
 	-	Java Dynamic Programming
 
+0073 Set Matrix Zeroes
+	-	Java Iterative Queue
+
 0074 Grids
 	-	Double Binary Search
+
+0085 Maximum Rectangle
+	-	Java Dynammic Programming
 
 200 Number of Islands
 	-	Java Depth First Search
 	-	Java Breadth First Search
 
+0239 Sliding Window Maximum
+	-	Java Iterative Slide Window
+
 0832 Flipping an Image
 	-	Java Iterate through 2D Array
 
 994 Rotting Oranges
-	-	Javae Breadth First Search
+	-	Java Breadth First Search
 
 
 
@@ -157,6 +182,9 @@ Lists/Arrays
 035 Search Insert Position
 	-	Java Iterative Search
 	-	Java Binary Search
+
+0041 First Missing Positive
+	-	Java int[] hashMap
 
 042 Trapping Rain Water
 	-	Java Dynamic Programming
@@ -203,6 +231,9 @@ Linked Lists
 019 Remove Nth Node from End of List
 	-	Java Single Pass
 
+0023 Merge k Sorted Lists
+	-	Java List Head Insertion
+
 0025 Reverse K elements of linked list
 	-	Java Iteration Linked Lists
 
@@ -237,6 +268,9 @@ Linked Lists
 	-	Java Multi-Array Pass
 	-	Java Array Optimized
 
+0328 Odd Even Linked List
+	-	Java Linked List Iteration, Two Tails
+
 1290 Convert Binary Number in a Linked List to Integer
 	-	Java Linked List Iteration
 	-	Java Math
@@ -266,6 +300,17 @@ Misc
 
 022 Generate Parentheses
 	-	Java Backtracking
+
+0346 Moving Average from Data Stream
+	-	Java ArrayList
+
+0403 Frog Jump
+	-	Java Backtracking
+	-	Java hashMap & hashSet dynamic programming
+
+
+0412 Fizz Buzz
+	-	Java Modding Iteration
 
 1436 Destination City
 	-	Java hashSet
@@ -298,6 +343,12 @@ BackTracking
 
 0046 Permutations
 	-	Java Backtracking
+
+
+
+Searching
+0278 First Bad Version
+	-	Java Binary Search
 ```
 
 
