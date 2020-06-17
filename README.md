@@ -237,6 +237,9 @@ Linked Lists
 0025 Reverse K elements of linked list
 	-	Java Iteration Linked Lists
 
+0083 Remove Duplicates from Sorted List
+	-	Java Iterate through List
+
 138	Copy List with Random Pointer
 	-	Python3 Recursive
 	-	Python3 Iterative Memory Conservative
@@ -288,18 +291,25 @@ Math
 	-	Java HashSet
 	-	Java Sorting
 
+0268 Missing Number
+	-	Java Math (basic summation)
+	-	Java Math Optimized (basic summation)
+
 0509 Fibonacci Number
 	-	Java Recursion
 	-	Java Iterative
 
 Misc
 
+022 Generate Parentheses
+	-	Java Backtracking
+
 146 LRU Cache
 	-	Java LinkedHashMap
 	-	Python OrderedDict
 
-022 Generate Parentheses
-	-	Java Backtracking
+0168 Excel Sheet Column Title
+	-	Java Decode Digit
 
 0346 Moving Average from Data Stream
 	-	Java ArrayList
