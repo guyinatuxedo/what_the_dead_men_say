@@ -129,6 +129,10 @@ String Manipulation
 0692 Top K Frequent Words
 	-	Java HashMap and MinHeap PriorityQueue
 
+0844 Backspace String Compare
+	-	Java StringBuilder
+	-	Java Two Indices
+
 1108 Defang IP
 	-	Python3 split / join
 
@@ -240,6 +244,9 @@ Linked Lists
 0083 Remove Duplicates from Sorted List
 	-	Java Iterate through List
 
+0092 Reverse Linked List II
+	-	Java Linked List Iteration
+
 138	Copy List with Random Pointer
 	-	Python3 Recursive
 	-	Python3 Iterative Memory Conservative
@@ -321,6 +328,12 @@ Misc
 
 0412 Fizz Buzz
 	-	Java Modding Iteration
+
+0645 Set Mismatch
+	-	Java HashSet & Summation
+
+0771 Jewels and Stones
+	-	Java HashMap
 
 1436 Destination City
 	-	Java hashSet
