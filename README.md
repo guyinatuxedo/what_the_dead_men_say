@@ -1,17 +1,20 @@
 # what_the_dead_men_say
 
-total 71/247
+total 74/247
 
 h 4/47
 
-m 34/138
+m 36/138
 
-e 33/62
+e 34/62
 
 
 Index
 
 ```
+0098 Validate Binary Search Tree
+	-	Java Recursive
+
 101 Symmetric tree
 102 Binary Tree Level Order Traversal
 		-	Python3 iterative
@@ -126,8 +129,17 @@ String Manipulation
 0443 String Compression
 	-	Java Single Pass
 
+0557 Reverse Words in a String III
+	-	Java String Iteration w StringBuilder
+
+0680 Valid Palindrom II
+	-	Java String Iteration
+
 0692 Top K Frequent Words
 	-	Java HashMap and MinHeap PriorityQueue
+
+0722 Remove Comments
+	-	Java String Iteration
 
 0844 Backspace String Compare
 	-	Java StringBuilder
@@ -152,6 +164,9 @@ Grid problems
 
 0074 Grids
 	-	Double Binary Search
+
+0079 Word Search
+	-	Java Backtracking Depth-First Search
 
 0085 Maximum Rectangle
 	-	Java Dynammic Programming
