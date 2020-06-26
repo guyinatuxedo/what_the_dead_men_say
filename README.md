@@ -37,6 +37,9 @@ Index
 	-	Java Queues
 	-	Java Two Ptrs
 
+0113 Path Sum II
+	-	Java Recursive Backtracking
+
 0117 Populating Next Right Pointers in Each Node II
 	-	Java Queues
 	-	Java Two Ptrs
@@ -100,6 +103,9 @@ String Manipulation
 008 atoi implementation
 	-	Java Iterative Ascii Math
 
+0014 Longest Common prefix
+	-	Java String Iteration
+
 0017 Letter Combinations of a Phone Number
 	-	Java Combination Construction
 	-	Java Recursive Branching
@@ -157,6 +163,9 @@ Grid problems
 	-	Java Grid iteration
 
 062 Unique Paths
+	-	Java Dynamic Programming
+
+0063 Unique Paths II
 	-	Java Dynamic Programming
 
 0073 Set Matrix Zeroes
@@ -221,6 +230,9 @@ Lists/Arrays
 
 121 Best Time to Buy and Sell Stock
 	-	Java Iteration
+	
+0122 Best Time to Buy and Sell Stock II
+	-	Java Single Pass
 
 0134 Gas Station
 	-	Java One Pass
