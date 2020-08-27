@@ -43,6 +43,9 @@ Index
 0117 Populating Next Right Pointers in Each Node II
 	-	Java Queues
 	-	Java Two Ptrs
+
+0450 Delete Node in BST
+	-	Java Recursive
 ```
 
 ```
@@ -221,6 +224,10 @@ Lists/Arrays
 	-	Java Greedy Algorithm
 	-	Java Dynamic Programming
 
+055 Jump Game
+	-	Java Backtracking
+	-	Java Dynamic Programming
+
 061 Rotate List
 	-	Java Loop/Break
 
@@ -248,9 +255,15 @@ Lists/Arrays
 0189 Rotate Array
 	-	Java Cycle Replacements
 
+0567 String Permutation
+	-	Java Array
+
 0724 Find Pivot Index
 	-	Java Three Pass
 	-	Java Prefix Sum
+
+0845 Longest Mountain in Array
+	-	Java Two Pointers
 
 1313
 	-	Java Array Construction
@@ -264,6 +277,9 @@ Linked Lists
 
 0023 Merge k Sorted Lists
 	-	Java List Head Insertion
+
+0024 Swap Nodes in Pairs
+	-	Java Iterative
 
 0025 Reverse K elements of linked list
 	-	Java Iteration Linked Lists
