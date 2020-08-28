@@ -2,11 +2,7 @@
 
 total 74/247
 
-h 4/47
-
-m 36/138
-
-e 34/62
+h 
 
 
 Index
@@ -45,6 +41,9 @@ Index
 	-	Java Two Ptrs
 
 0450 Delete Node in BST
+	-	Java Recursive
+
+0701 Insert into a Binary Search Tree
 	-	Java Recursive
 ```
 
@@ -162,6 +161,9 @@ String Manipulation
 
 Grid problems
 
+0048 Rotate Image
+	-	Java Matrix Transpose / Row Reversal
+
 0054 Spiral Matrix
 	-	Java Grid iteration
 
@@ -255,6 +257,10 @@ Lists/Arrays
 0189 Rotate Array
 	-	Java Cycle Replacements
 
+0442 Find All Duplicates in an Array
+	-	Java HashMap
+	-	Java Array Spot Marking
+
 0567 String Permutation
 	-	Java Array
 
@@ -321,6 +327,10 @@ Linked Lists
 	-	Java Multi-Array Pass
 	-	Java Array Optimized
 
+0287 Find the Duplicate Number
+	-	Java Sorting
+	-	Java Turtle / Rabbit
+
 0328 Odd Even Linked List
 	-	Java Linked List Iteration, Two Tails
 
@@ -344,6 +354,9 @@ Math
 0268 Missing Number
 	-	Java Math (basic summation)
 	-	Java Math Optimized (basic summation)
+
+0445 Add Two Numbers II
+	-	Java Linked List Reversal
 
 0509 Fibonacci Number
 	-	Java Recursion
@@ -391,6 +404,8 @@ Sorting
 
 0033 Search in Rotated Sorted Array
 	-	Java Two Binary Searches
+
+0034 Find First and Last Position of Element in Sorted Array
 
 0075 Sort Colors
 	-	Java Two Pass Counting Sort
