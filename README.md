@@ -1,9 +1,10 @@
 # what_the_dead_men_say
 
-total 74/247
+total 101/225
 
-h 
-
+hard 08/39
+medium 054/132
+easy 39/54
 
 Index
 
@@ -128,6 +129,9 @@ String Manipulation
 0205 Isomorphic Strings
 	-	Java HashMaps and Array
 
+0340 Longest Substring with At Most K Distinct Characters
+	-	Java Sliding Window HashMap
+
 0387 First Unique Character in a String
 	-	Java Linear Pass Hashmap
 
@@ -191,6 +195,9 @@ Grid problems
 
 0239 Sliding Window Maximum
 	-	Java Iterative Slide Window
+
+0419 Battleships in a Board
+	-	Java HashSet
 
 0832 Flipping an Image
 	-	Java Iterate through 2D Array
@@ -333,6 +340,10 @@ Linked Lists
 
 0328 Odd Even Linked List
 	-	Java Linked List Iteration, Two Tails
+
+0876 Middle of Linked Lists
+	-	Java Linked List Iteration
+	-	Java ArrayList
 
 1290 Convert Binary Number in a Linked List to Integer
 	-	Java Linked List Iteration
