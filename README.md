@@ -1,8 +1,8 @@
 # what_the_dead_men_say
 
-total 101/225
+total 110/225
 
-hard 08/39
+hard 18/39
 medium 054/132
 easy 39/54
 
@@ -10,6 +10,9 @@ Index
 
 ```
 0098 Validate Binary Search Tree
+	-	Java Recursive
+
+0099 Recover Binary Search Tree
 	-	Java Recursive
 
 101 Symmetric tree
@@ -41,6 +44,9 @@ Index
 	-	Java Queues
 	-	Java Two Ptrs
 
+0124 Binary Tree Maximum path Sum
+	-	Java Recursion
+
 0450 Delete Node in BST
 	-	Java Recursive
 
@@ -68,6 +74,10 @@ Number Manipulation
 015 Three Sum
 	-	Java hashmap
 
+0045 Jump Game II
+	-	Java Iteration
+	-	Java Greedy
+
 066 Plus One
 	-	Java Math
 	-	Java One Based Math (not numerical base)
@@ -92,6 +102,12 @@ Number Manipulation
 
 217 Contains Duplicate
 	-	Python3 Hashmap
+	-	Java Sorting
+
+0273 Integer to English Words
+	-	Java 
+
+0295 Find Median from Data Stream
 	-	Java Sorting
 
 1304 Find N Unique Integers Sum up to Zero
@@ -119,6 +135,9 @@ String Manipulation
 043 Multiply Strings
 	-	Java "By Hand"
 
+0044 Wildcard Matching
+	-	Java Backtracking
+
 125 Valid Palindrome
 	-	Java Two Indices
 
@@ -128,6 +147,10 @@ String Manipulation
 	
 0205 Isomorphic Strings
 	-	Java HashMaps and Array
+
+0214 Shortest Palindrome
+	-	Java Iterative
+	-	Java Recursive
 
 0340 Longest Substring with At Most K Distinct Characters
 	-	Java Sliding Window HashMap
@@ -196,6 +219,9 @@ Grid problems
 0239 Sliding Window Maximum
 	-	Java Iterative Slide Window
 
+0329 Longest Increasing Path in a Matrix
+	-	Java DFS w/ memorization
+
 0419 Battleships in a Board
 	-	Java HashSet
 
@@ -249,6 +275,13 @@ Lists/Arrays
 	
 0122 Best Time to Buy and Sell Stock II
 	-	Java Single Pass
+
+0123 Best Time to Buy and Sell Stock III
+	-	Java Dynamic Programming
+	-	Java One Pass
+
+0128 Longest Consecutive Sequence
+	-	Java Hashset Iteration
 
 0134 Gas Station
 	-	Java One Pass
