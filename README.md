@@ -1,9 +1,9 @@
 # what_the_dead_men_say
 
-total 110/225
+total 149/200
 
-hard 18/39
-medium 054/132
+hard 19/35
+medium 56/91
 easy 39/54
 
 Index
@@ -55,6 +55,13 @@ Index
 ```
 
 ```
+Graphs
+
+0133 Clone Graph
+	-	Java DFS
+
+
+
 Number Manipulation
 001 Two Sum
 	-	Java hashmap 2-pass
@@ -141,6 +148,9 @@ String Manipulation
 125 Valid Palindrome
 	-	Java Two Indices
 
+0139 Word Break
+	-	Java Depth First Search w/ memorization
+
 0151 Reverse Words in String
 	-	Java Iterate through String
 	-	Java Simple Solution
@@ -164,6 +174,9 @@ String Manipulation
 0443 String Compression
 	-	Java Single Pass
 
+0468 Validate IP Address
+	-	Python3 String Parsing
+
 0557 Reverse Words in a String III
 	-	Java String Iteration w StringBuilder
 
@@ -179,6 +192,10 @@ String Manipulation
 0844 Backspace String Compare
 	-	Java StringBuilder
 	-	Java Two Indices
+
+1044 Longest Duplicate Substring
+	-	Java Hashmap
+	-	Java Binary Search / Rolling Hash
 
 1108 Defang IP
 	-	Python3 split / join
