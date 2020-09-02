@@ -1,9 +1,9 @@
 # what_the_dead_men_say
 
-total 149/200
+total 150/200
 
 hard 19/35
-medium 56/91
+medium 57/91
 easy 39/54
 
 Index
@@ -313,6 +313,9 @@ Lists/Arrays
 
 0189 Rotate Array
 	-	Java Cycle Replacements
+
+0300 Longest Increasing Subsequence
+	-	Java Recursion w/ memory
 
 0442 Find All Duplicates in an Array
 	-	Java HashMap
