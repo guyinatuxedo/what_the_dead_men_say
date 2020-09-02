@@ -1,10 +1,21 @@
 # what_the_dead_men_say
 
-total 150/200
+total 152/200
 
 hard 19/35
-medium 57/91
+medium 59/91
 easy 39/54
+
+```
+Design Tic-Tac-Toe
+Sort List
+Search 2D Matrix
+Serialize and Deserialize Binary Tree
+Palindrom Removal
+Longest Palindromic Subsequence
+Boundary of Binary Tree
+Maximum Length of a Concatenated String with Unique Characters
+```
 
 Index
 
@@ -307,12 +318,18 @@ Lists/Arrays
 	-	Java hashSet
 	-	Java two ptrs
 
+0162 Find Peak Element
+	-	Java Iterative
+
 0169 Majority Element
 	-	Java HashMap Iterative
 	-	Java Sorting
 
 0189 Rotate Array
 	-	Java Cycle Replacements
+
+0209 Minimum Size Subarray Sum
+
 
 0300 Longest Increasing Subsequence
 	-	Java Recursion w/ memory
