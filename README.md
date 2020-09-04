@@ -9,10 +9,8 @@ easy 39/54
 ```
 Design Tic-Tac-Toe
 Sort List
-Search 2D Matrix
 Serialize and Deserialize Binary Tree
-Palindrom Removal
-Longest Palindromic Subsequence
+Palindrome Removal
 Boundary of Binary Tree
 Maximum Length of a Concatenated String with Unique Characters
 ```
@@ -137,6 +135,9 @@ String Manipulation
 	-	Java Sliding Window
 	-	Java Sliding Window Optimized
 
+0005 Longest Palindromic Substring
+	-	Java Center Iteration
+
 008 atoi implementation
 	-	Java Iterative Ascii Math
 
@@ -211,7 +212,8 @@ String Manipulation
 1108 Defang IP
 	-	Python3 split / join
 
-
+1239 Maximum Length of a Concatenated String with Unique Characters
+	-	Java Recursion
 
 
 Grid problems
@@ -246,6 +248,9 @@ Grid problems
 
 0239 Sliding Window Maximum
 	-	Java Iterative Slide Window
+
+0240 Search a 2D Matrix II
+	-	Java Linear Search Recursion w/ Memorization
 
 0329 Longest Increasing Path in a Matrix
 	-	Java DFS w/ memorization
