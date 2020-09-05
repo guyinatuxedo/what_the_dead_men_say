@@ -7,12 +7,7 @@ medium 59/91
 easy 39/54
 
 ```
-Design Tic-Tac-Toe
-Sort List
-Serialize and Deserialize Binary Tree
 Palindrome Removal
-Boundary of Binary Tree
-Maximum Length of a Concatenated String with Unique Characters
 ```
 
 Index
@@ -58,6 +53,9 @@ Index
 
 0450 Delete Node in BST
 	-	Java Recursive
+
+0545 Boundary of Binary Tree
+	-	Java Iterative / Recursive
 
 0701 Insert into a Binary Search Tree
 	-	Java Recursive
@@ -255,6 +253,10 @@ Grid problems
 0329 Longest Increasing Path in a Matrix
 	-	Java DFS w/ memorization
 
+0348 Design Tic-Tac-Toe
+	-	Java N^2
+	-	Java Arrays
+
 0419 Battleships in a Board
 	-	Java HashSet
 
@@ -393,6 +395,9 @@ Linked Lists
 143 Reorder List
 	-	Python3 Iterative Solution
 	-	Python3 List Manipulation
+
+0148 Sort List
+	-	Java Bubble Sort
 
 203 Remove Linked List Elements
 	-	Java Iterative
