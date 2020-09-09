@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-000/160
+005/160
 
 Other Topics:
 ```
@@ -33,7 +33,7 @@ Fibbonachi
 
 ## Binary Trees
 
-03/21
+05/21
 
 ```
 0098 Validate Binary Search Tree (CHECKED)
@@ -66,9 +66,16 @@ Fibbonachi
 106
 108	-	finish documenting this
 109
-110 Balanced Binary Tree
+110 Balanced Binary Tree (CHECKED)
+	-	Java Recursive
+	-	C Recursive
+
 111 Minimum Depth of Binary Tree
-112 Path Sum
+
+112 Path Sum (CHECKED)
+	-	Java Iteration
+	-	Java Recursive
+	-	C Recursive Backtracking
 
 0226 Invert Binary Tree
 	-	Java Recursive
