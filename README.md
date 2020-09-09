@@ -33,7 +33,7 @@ Fibbonachi
 
 ## Binary Trees
 
-05/21
+06/21
 
 ```
 0098 Validate Binary Search Tree (CHECKED)
@@ -70,7 +70,10 @@ Fibbonachi
 	-	Java Recursive
 	-	C Recursive
 
-111 Minimum Depth of Binary Tree
+111 Minimum Depth of Binary Tree (CHECKED)
+	-	Java Recursive
+	-	Java Iterative
+	-	C Recursive
 
 112 Path Sum (CHECKED)
 	-	Java Iteration
@@ -115,18 +118,19 @@ Fibbonachi
 ## Number Manipulation
 
 ```
-001 Two Sum
+0001 Two Sum
 	-	Java hashmap 2-pass
 	-	Java hashmap 1-pass
 
 002 Add Two Numbers
 	-	Java Iterative
 	
-007	Integer Reversal
-	-	Java Math
-	-	Java Type Conversion
+007	Integer Reversal (CHECKED)
+	-	Java Digit Iteration
+	-	Java String/Int Conversion
 
-009 Integer Palindrome
+0009 Integer Palindrome (CHECKED)
+	-	Java Palindrome Check
 	-	Java Integer Reversal
 	-	Java Half Integer Reversal
 
