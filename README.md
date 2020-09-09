@@ -1,30 +1,67 @@
 # what_the_dead_men_say
 
-total 152/200
+ToDo List:
 
-hard 19/35
-medium 59/91
-easy 39/54
+Finish Sections
+```
+Binary Trees
+Backtracking
+Graphs
+Grids
+arrays
+linked lists
+math
+misc
+number_manipulation
+searching
+stacks
+string_manipulation
+```
+
+000/160
+
+Other Topics:
+```
+Graphs
+Dynamic Programming
+Treaps
+Djikstras
+Backtracking
+Grids
+Fibbonachi
+```
+
+## Binary Trees
+
+03/21
 
 ```
-Palindrome Removal
-```
-
-Index
-
-```
-0098 Validate Binary Search Tree
+0098 Validate Binary Search Tree (CHECKED)
 	-	Java Recursive
+	-	Java Iterative
+	-	Java Inorder
 
 0099 Recover Binary Search Tree
-	-	Java Recursive
 
-101 Symmetric tree
+
+101 Symmetric tree (CHECKED)
+	-	Java Recursive
+	-	Java Iterative
+	-	C Recursive
+	-	Python Iterative
+
 102 Binary Tree Level Order Traversal
 		-	Python3 iterative
+
 103 Binary Tree Zigzag Level Order Traversal
 		-	Python3 iterative BFS w Deques
-104 Maximum depth of binary tree
+
+104 Maximum depth of binary tree (CHECKED)
+	-	Java Iterative
+	-	Java Recursive
+	-	C Recursive
+	-	Python Iterative
+
 105
 106
 108	-	finish documenting this
@@ -61,15 +98,16 @@ Index
 	-	Java Recursive
 ```
 
-```
-Graphs
+## Graphs
 
+```
 0133 Clone Graph
 	-	Java DFS
+```
 
+## Number Manipulation
 
-
-Number Manipulation
+```
 001 Two Sum
 	-	Java hashmap 2-pass
 	-	Java hashmap 1-pass
@@ -126,9 +164,11 @@ Number Manipulation
 
 1304 Find N Unique Integers Sum up to Zero
 	-	Java Summation
+```
 
+## String Manipulation
 
-String Manipulation
+```
 003 Longest Substring Without Repeating Characters
 	-	Java Sliding Window
 	-	Java Sliding Window Optimized
@@ -213,9 +253,11 @@ String Manipulation
 1239 Maximum Length of a Concatenated String with Unique Characters
 	-	Java Recursion
 
+```
 
-Grid problems
+## Grid problems
 
+```
 0048 Rotate Image
 	-	Java Matrix Transpose / Row Reversal
 
@@ -266,10 +308,11 @@ Grid problems
 994 Rotting Oranges
 	-	Java Breadth First Search
 
+```
 
+## Lists/Arrays
 
-Lists/Arrays
-
+```
 021 Merge Two Sorted Lists
 	-	Jave Iteration
 
@@ -357,11 +400,11 @@ Lists/Arrays
 
 1313
 	-	Java Array Construction
+```
 
+## Linked Lists
 
-
-Linked Lists
-
+```
 019 Remove Nth Node from End of List
 	-	Java Single Pass
 
@@ -429,8 +472,11 @@ Linked Lists
 	-	Java Linked List Iteration
 	-	Java Math
 
-Math
+```
 
+## Math
+
+```
 069	Sqrt(x)
 	-	Java Linear Pass
 	-	Java Binary Search
@@ -453,8 +499,11 @@ Math
 	-	Java Recursion
 	-	Java Iterative
 
-Misc
+```
 
+## Misc
+
+```
 022 Generate Parentheses
 	-	Java Backtracking
 
@@ -484,15 +533,19 @@ Misc
 
 1436 Destination City
 	-	Java hashSet
+```
 
-Stacks
+## Stacks
+```
 0232 Implement Queue using Stacks
 	-	Java Two Stacks
 	-	Java Two Stack Optimized
 
+```
 
-Sorting
+## Sorting
 
+```
 0033 Search in Rotated Sorted Array
 	-	Java Two Binary Searches
 
@@ -510,28 +563,15 @@ Sorting
 	-	Java Sorting
 	-	Java Two Pointers
 
+```
 
-BackTracking
+## BackTracking
 
+```
 0046 Permutations
 	-	Java Backtracking
-
-
 
 Searching
 0278 First Bad Version
 	-	Java Binary Search
-```
-
-
-List of Topics to cover:
-
-```
-Graphs
-Dynamic Programming
-Treaps
-Djikstras
-Backtracking
-Grids
-Fibbonachi
 ```
