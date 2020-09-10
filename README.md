@@ -141,9 +141,9 @@ Fibbonachi
 	-	Java Iteration
 	-	Java Greedy
 
-066 Plus One
-	-	Java Math
-	-	Java One Based Math (not numerical base)
+0066 Plus One (CHECKED)
+	-	Java Array Iteration
+	-	Java Array Iteration Improved
 
 136 Single Number
 	-	Python3 Hashmap
@@ -197,8 +197,9 @@ Fibbonachi
 	-	Java Combination Construction
 	-	Java Recursive Branching
 
-020 Valid Parenthesis
+0020 Valid Parenthesis (CHECKED)
 	-	Java Stack
+	-	Java Stack Improved
 
 043 Multiply Strings
 	-	Java "By Hand"
@@ -229,8 +230,9 @@ Fibbonachi
 0387 First Unique Character in a String
 	-	Java Linear Pass Hashmap
 
-415 Add Strings
-	-	Java Iteration
+0415 Add Strings (CHECKED)
+	-	Java Iterative String Concatenation
+	-	Java Iterative StringBuilder
 
 0443 String Compression
 	-	Java Single Pass
