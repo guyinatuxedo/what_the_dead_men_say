@@ -156,7 +156,7 @@ Fibbonachi
 0179 Largest Number
 	-	Java String Conversion / Comparison
 
-190 Bit Reversal
+0190 Java Bit Reversal (CHECKED)
 	-	Java Bit Reversal
 
 191 Number of 1 Bits
@@ -217,7 +217,7 @@ Fibbonachi
 	-	Java Iterate through String
 	-	Java Simple Solution
 	
-0205 Isomorphic Strings
+0205 Isomorphic Strings (CHECKED)
 	-	Java HashMaps and Array
 
 0214 Shortest Palindrome
@@ -388,7 +388,8 @@ Fibbonachi
 	-	Java HashMap Iterative
 	-	Java Sorting
 
-0189 Rotate Array
+0189 Rotate Array (CHECKED)
+	-	Java Array
 	-	Java Cycle Replacements
 
 0209 Minimum Size Subarray Sum
