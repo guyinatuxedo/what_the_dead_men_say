@@ -419,7 +419,8 @@ Fibbonachi
 ## Linked Lists
 
 ```
-019 Remove Nth Node from End of List
+0019 Remove Nth Node from End of List (CHECKED)
+	-	Java Two Pass
 	-	Java Single Pass
 
 0023 Merge k Sorted Lists
