@@ -118,11 +118,10 @@ Fibbonachi
 ## Number Manipulation
 
 ```
-0001 Two Sum
-	-	Java hashmap 2-pass
+0001 Two Sum (CHECKED)
 	-	Java hashmap 1-pass
 
-002 Add Two Numbers
+0002 Add Two Numbers (CHECKED)
 	-	Java Iterative
 	
 007	Integer Reversal (CHECKED)
@@ -145,9 +144,9 @@ Fibbonachi
 	-	Java Array Iteration
 	-	Java Array Iteration Improved
 
-136 Single Number
-	-	Python3 Hashmap
-	-	Python3 Xor Solution
+0136 Single Number (CHECKED)
+	-	Java HashSet
+	-	Java Xorin
 
 137 Single Number
 	-	Python3 Hashmap
