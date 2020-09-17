@@ -380,7 +380,7 @@ Fibbonachi
 	-	Java hashSet
 	-	Java two ptrs
 
-0162 Find Peak Element
+0162 Find Peak Element (CHECKED)
 	-	Java Iterative
 
 0169 Majority Element
