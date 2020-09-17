@@ -353,7 +353,7 @@ Fibbonachi
 	-	Java Backtracking
 	-	Java Dynamic Programming
 
-061 Rotate List
+0061 Rotate List (CHECKED)
 	-	Java Loop/Break
 
 0088 Merge Sorted Array
@@ -460,8 +460,8 @@ Fibbonachi
 	-	Java Iterative
 	-	Java Sentinel Node
 
-206 Reverse List
-	-	Java Iterative O(1) memory
+0206 Reverse List (CHECKED)
+	-	Java Iterative
 	-	Java Recursive
 
 0234 Palindrome Linked List
