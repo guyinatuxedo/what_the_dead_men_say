@@ -373,17 +373,14 @@ Fibbonachi
 0128 Longest Consecutive Sequence
 	-	Java Hashset Iteration
 
-0134 Gas Station
+0134 Gas Station (CHECKED)
+	-	Java N^2
 	-	Java One Pass
-
-0160 Intersection of Two Linked Lists
-	-	Java hashSet
-	-	Java two ptrs
 
 0162 Find Peak Element (CHECKED)
 	-	Java Iterative
 
-0169 Majority Element
+0169 Majority Element (CHECKED)
 	-	Java HashMap Iterative
 	-	Java Sorting
 
@@ -455,6 +452,10 @@ Fibbonachi
 
 0148 Sort List
 	-	Java Bubble Sort
+
+0160 Intersection of Two Linked Lists (CHECKED)
+	-	Java hashSet
+	-	Java two ptrs
 
 203 Remove Linked List Elements
 	-	Java Iterative
