@@ -111,7 +111,7 @@ Fibbonachi
 ## Graphs
 
 ```
-0133 Clone Graph
+0133 Clone Graph (CHECKED)
 	-	Java DFS
 ```
 
@@ -189,7 +189,7 @@ Fibbonachi
 008 atoi implementation
 	-	Java Iterative Ascii Math
 
-0014 Longest Common prefix
+0014 Longest Common prefix (CHECKED)
 	-	Java String Iteration
 
 0017 Letter Combinations of a Phone Number
@@ -206,7 +206,7 @@ Fibbonachi
 0044 Wildcard Matching
 	-	Java Backtracking
 
-125 Valid Palindrome
+0125 Valid Palindrome (CHECKED)
 	-	Java Two Indices
 
 0139 Word Break
