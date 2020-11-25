@@ -320,6 +320,8 @@ Fibbonachi
 994 Rotting Oranges
 	-	Java Breadth First Search
 
+0999 Available Captures for Rook
+	-	Java Grid Iteration
 ```
 
 ## Lists/Arrays
@@ -331,11 +333,11 @@ Fibbonachi
 0026 Remove Duplicates from Sorted Array
 	-	Java Three Indices w Prev Value 
 
-027 Remove Element
+0027 Remove Element (CHECKED)
 	-	Java Double Pass
 	-	Java Single Pass
 
-035 Search Insert Position
+0035 Search Insert Position (CHECKED)
 	-	Java Iterative Search
 	-	Java Binary Search
 
@@ -519,6 +521,9 @@ Fibbonachi
 ## Misc
 
 ```
+0007 Reverse Integer (CHECKED)
+	-	Java Parse Int
+
 022 Generate Parentheses
 	-	Java Backtracking
 
