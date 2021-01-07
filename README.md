@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-005/160
+031/161
 
 Other Topics:
 ```
@@ -412,6 +412,9 @@ Fibbonachi
 
 1313
 	-	Java Array Construction
+
+1480	Running Sum of 1d Array (CHECKED)
+	-	Java Linear Iteration
 ```
 
 ## Linked Lists
