@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-031/161
+038/166
 
 Other Topics:
 ```
@@ -327,11 +327,8 @@ Fibbonachi
 ## Lists/Arrays
 
 ```
-021 Merge Two Sorted Lists
-	-	Jave Iteration
-
-0026 Remove Duplicates from Sorted Array
-	-	Java Three Indices w Prev Value 
+0026 Remove Duplicates from Sorted Array (CHECKED)
+	-	Java Two Indices
 
 0027 Remove Element (CHECKED)
 	-	Java Double Pass
@@ -362,7 +359,7 @@ Fibbonachi
 	-	Java 3 Indices New Array Merge
 	-	Java 3 Indices Backwards Merge
 
-121 Best Time to Buy and Sell Stock
+0121 Best Time to Buy and Sell Stock
 	-	Java Iteration
 	
 0122 Best Time to Buy and Sell Stock II
@@ -413,6 +410,9 @@ Fibbonachi
 1313
 	-	Java Array Construction
 
+1365 How Many Numbers Are Smaller Than the Current Number
+	-	Java Nested Loops (CHECKED)
+
 1480	Running Sum of 1d Array (CHECKED)
 	-	Java Linear Iteration
 ```
@@ -424,11 +424,16 @@ Fibbonachi
 	-	Java Two Pass
 	-	Java Single Pass
 
+0021 Merge Two Sorted Lists (CHECKED)
+	-	Jave Iteration
+	-	Java Recursion
+
 0023 Merge k Sorted Lists
 	-	Java List Head Insertion
 
-0024 Swap Nodes in Pairs
+0024 Swap Nodes in Pairs (CHECKED)
 	-	Java Iterative
+	-	Java Recursive
 
 0025 Reverse K elements of linked list
 	-	Java Iteration Linked Lists
@@ -436,7 +441,7 @@ Fibbonachi
 0083 Remove Duplicates from Sorted List
 	-	Java Iterate through List
 
-0092 Reverse Linked List II
+0092 Reverse Linked List II (CHECKED)
 	-	Java Linked List Iteration
 
 138	Copy List with Random Pointer
@@ -519,6 +524,11 @@ Fibbonachi
 	-	Java Recursion
 	-	Java Iterative
 
+1486 XOR Operation in an Array (CHECKED)
+	-	Java Iterative
+
+1720 Decode XORed Array (CHECKED)
+	-	Java Iterative
 ```
 
 ## Misc
