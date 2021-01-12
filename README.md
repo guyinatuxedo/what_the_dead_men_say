@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-038/166
+043/167
 
 Other Topics:
 ```
@@ -148,7 +148,7 @@ Fibbonachi
 	-	Java HashSet
 	-	Java Xorin
 
-137 Single Number
+137 Single Number II
 	-	Python3 Hashmap
 	-	Python3 Xor/And/Not Solution
 
@@ -158,13 +158,9 @@ Fibbonachi
 0190 Java Bit Reversal (CHECKED)
 	-	Java Bit Reversal
 
-191 Number of 1 Bits
+0191 Number of 1 Bits (CHECKED)
 	-	Java Bit Iteration
 	-	Java Anding Bit Manipulation
-
-217 Contains Duplicate
-	-	Python3 Hashmap
-	-	Java Sorting
 
 0273 Integer to English Words
 	-	Java 
@@ -359,11 +355,12 @@ Fibbonachi
 	-	Java 3 Indices New Array Merge
 	-	Java 3 Indices Backwards Merge
 
-0121 Best Time to Buy and Sell Stock
+0121 Best Time to Buy and Sell Stock (CHECKED)
 	-	Java Iteration
 	
-0122 Best Time to Buy and Sell Stock II
-	-	Java Single Pass
+0122 Best Time to Buy and Sell Stock II (CHECKED)
+	-	Java Single Pass Profitable Ranges
+	-	Java Single Pass Increase Sumnation
 
 0123 Best Time to Buy and Sell Stock III
 	-	Java Dynamic Programming
@@ -389,6 +386,14 @@ Fibbonachi
 
 0209 Minimum Size Subarray Sum
 
+0217 Contains Duplicate (CHECKED)
+	-	Python3 Hashmap
+	-	Java Sorting
+	-	Java HashSet
+
+0219 Contains Duplicate II (Chekced)
+	-	Java HashMap
+	-	Java BST
 
 0300 Longest Increasing Subsequence
 	-	Java Recursion w/ memory
