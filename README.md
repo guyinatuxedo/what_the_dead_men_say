@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-043/167
+048/168
 
 Other Topics:
 ```
@@ -208,7 +208,7 @@ Fibbonachi
 0139 Word Break
 	-	Java Depth First Search w/ memorization
 
-0151 Reverse Words in String
+0151 Reverse Words in String (CHECKED)
 	-	Java Iterate through String
 	-	Java Simple Solution
 	
@@ -229,10 +229,11 @@ Fibbonachi
 	-	Java Iterative String Concatenation
 	-	Java Iterative StringBuilder
 
-0443 String Compression
+0443 String Compression (CHECKED)
 	-	Java Single Pass
+	-	Java Two Indices
 
-0468 Validate IP Address
+0468 Validate IP Address (CHECKED)
 	-	Python3 String Parsing
 
 0557 Reverse Words in a String III
@@ -409,8 +410,11 @@ Fibbonachi
 	-	Java Three Pass
 	-	Java Prefix Sum
 
-0845 Longest Mountain in Array
+0845 Longest Mountain in Array (CHECKED)
 	-	Java Two Pointers
+
+0941 Valid Mountain Array (CHECKED)
+	-	Java Iterative
 
 1313
 	-	Java Array Construction
