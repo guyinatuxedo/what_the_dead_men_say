@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-048/168
+053/168
 
 Other Topics:
 ```
@@ -447,27 +447,31 @@ Fibbonachi
 0025 Reverse K elements of linked list
 	-	Java Iteration Linked Lists
 
-0083 Remove Duplicates from Sorted List
+0083 Remove Duplicates from Sorted List (CHECKED)
 	-	Java Iterate through List
 
 0092 Reverse Linked List II (CHECKED)
 	-	Java Linked List Iteration
 
-138	Copy List with Random Pointer
+0138 Copy List with Random Pointer (CHECKED)
 	-	Python3 Recursive
 	-	Python3 Iterative Memory Conservative
+	-	Java Hashmap
 
-141 Linked List Cycle
+0141 Linked List Cycle (CHECKED)
 	-	Python3 Hash Table Iteration
 	-	Python3 "Circular" nodes
+	-	Java HashSet
 
-142 Linked List Cycle II
+0142 Linked List Cycle II (CHECKED)
 	-	Python3 Hash Table Iteration
 	-	Python3 "Circular" nodes
+	-	Java HashSet
 
-143 Reorder List
+0143 Reorder List (CHECKED)
 	-	Python3 Iterative Solution
 	-	Python3 List Manipulation
+	-	Java Hashmap Two Ptrs
 
 0148 Sort List
 	-	Java Bubble Sort
