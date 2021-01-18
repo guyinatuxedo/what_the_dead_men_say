@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-053/168
+060/168
 
 Other Topics:
 ```
@@ -222,7 +222,7 @@ Fibbonachi
 0340 Longest Substring with At Most K Distinct Characters
 	-	Java Sliding Window HashMap
 
-0387 First Unique Character in a String
+0387 First Unique Character in a String (CHECKED)
 	-	Java Linear Pass Hashmap
 
 0415 Add Strings (CHECKED)
@@ -245,7 +245,7 @@ Fibbonachi
 0692 Top K Frequent Words
 	-	Java HashMap and MinHeap PriorityQueue
 
-0722 Remove Comments
+0722 Remove Comments (CHECKED)
 	-	Java String Iteration
 
 0844 Backspace String Compare
@@ -480,7 +480,7 @@ Fibbonachi
 	-	Java hashSet
 	-	Java two ptrs
 
-203 Remove Linked List Elements
+0203 Remove Linked List Elements (CHECKED)
 	-	Java Iterative
 	-	Java Sentinel Node
 
@@ -519,7 +519,7 @@ Fibbonachi
 	-	Java Linear Pass
 	-	Java Binary Search
 
-0204 Count Primes
+0204 Count Primes (CHECKED)
 	-	Java Sieve of Eratosthenes
 
 0252 Meeting Rooms
