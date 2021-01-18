@@ -399,14 +399,14 @@ Fibbonachi
 0300 Longest Increasing Subsequence
 	-	Java Recursion w/ memory
 
-0442 Find All Duplicates in an Array
-	-	Java HashMap
+0442 Find All Duplicates in an Array (CHECKED)
+	-	Java Hashset
 	-	Java Array Spot Marking
 
-0567 String Permutation
+0567 String Permutation (CHECKED)
 	-	Java Array
 
-0724 Find Pivot Index
+0724 Find Pivot Index (CHECKED)
 	-	Java Three Pass
 	-	Java Prefix Sum
 
