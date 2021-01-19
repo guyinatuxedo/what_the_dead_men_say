@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-060/168
+065/168
 
 Other Topics:
 ```
@@ -396,6 +396,15 @@ Fibbonachi
 	-	Java HashMap
 	-	Java BST
 
+0238 product of array except self (CHECKED)
+	-	Java Multi-Array Pass
+	-	Java Array Optimize
+
+0287 Find the Duplicate Number (CHECKED)
+	-	Java HashSet
+	-	Java Sorting
+	-	Java Turtle / Rabbit
+
 0300 Longest Increasing Subsequence
 	-	Java Recursion w/ memory
 
@@ -488,21 +497,15 @@ Fibbonachi
 	-	Java Iterative
 	-	Java Recursive
 
-0234 Palindrome Linked List
+0234 Palindrome Linked List (CHECKED)
+	-	Java Stacks
 	-	Java Two Pointers List Reversal
 
-238 product of array except self
-	-	Java Multi-Array Pass
-	-	Java Array Optimized
-
-0287 Find the Duplicate Number
-	-	Java Sorting
-	-	Java Turtle / Rabbit
-
-0328 Odd Even Linked List
+0328 Odd Even Linked List (CHECKED)
+	-	Java Setinel Nodes
 	-	Java Linked List Iteration, Two Tails
 
-0876 Middle of Linked Lists
+0876 Middle of Linked Lists (CHECKED)
 	-	Java Linked List Iteration
 	-	Java ArrayList
 
