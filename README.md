@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-065/168
+070/168
 
 Other Topics:
 ```
@@ -509,7 +509,7 @@ Fibbonachi
 	-	Java Linked List Iteration
 	-	Java ArrayList
 
-1290 Convert Binary Number in a Linked List to Integer
+1290 Convert Binary Number in a Linked List to Integer (CHECKED)
 	-	Java Linked List Iteration
 	-	Java Math
 
@@ -518,25 +518,21 @@ Fibbonachi
 ## Math
 
 ```
-069	Sqrt(x)
+0069	Sqrt(x) (CHECKED)
 	-	Java Linear Pass
 	-	Java Binary Search
 
 0204 Count Primes (CHECKED)
 	-	Java Sieve of Eratosthenes
 
-0252 Meeting Rooms
-	-	Java HashSet
-	-	Java Sorting
-
-0268 Missing Number
+0268 Missing Number (CHECKED)
 	-	Java Math (basic summation)
 	-	Java Math Optimized (basic summation)
 
 0445 Add Two Numbers II
 	-	Java Linked List Reversal
 
-0509 Fibonacci Number
+0509 Fibonacci Number (CHECKED)
 	-	Java Recursion
 	-	Java Iterative
 
@@ -562,6 +558,10 @@ Fibbonachi
 
 0168 Excel Sheet Column Title
 	-	Java Decode Digit
+
+0252 Meeting Rooms (CHECKED)
+	-	Java HashSet
+	-	Java Sorting
 
 0346 Moving Average from Data Stream
 	-	Java ArrayList
