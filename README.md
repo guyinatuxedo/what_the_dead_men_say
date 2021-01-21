@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-070/168
+075/168
 
 Other Topics:
 ```
@@ -446,14 +446,14 @@ Fibbonachi
 	-	Jave Iteration
 	-	Java Recursion
 
-0023 Merge k Sorted Lists
+0023 Merge k Sorted Lists (CHECKED)
 	-	Java List Head Insertion
 
 0024 Swap Nodes in Pairs (CHECKED)
 	-	Java Iterative
 	-	Java Recursive
 
-0025 Reverse K elements of linked list
+0025 Reverse K elements of linked list (CHECKED)
 	-	Java Iteration Linked Lists
 
 0083 Remove Duplicates from Sorted List (CHECKED)
@@ -549,21 +549,21 @@ Fibbonachi
 0007 Reverse Integer (CHECKED)
 	-	Java Parse Int
 
-022 Generate Parentheses
+0022 Generate Parentheses (CHECKED)
 	-	Java Backtracking
 
 146 LRU Cache
 	-	Java LinkedHashMap
 	-	Python OrderedDict
 
-0168 Excel Sheet Column Title
+0168 Excel Sheet Column Title (CHECKED)
 	-	Java Decode Digit
 
 0252 Meeting Rooms (CHECKED)
 	-	Java HashSet
 	-	Java Sorting
 
-0346 Moving Average from Data Stream
+0346 Moving Average from Data Stream (CHECKED)
 	-	Java ArrayList
 
 0403 Frog Jump
