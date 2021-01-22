@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-075/168
+085/168
 
 Other Topics:
 ```
@@ -136,7 +136,7 @@ Fibbonachi
 015 Three Sum
 	-	Java hashmap
 
-0045 Jump Game II
+0045 Jump Game II (CHECKED)
 	-	Java Iteration
 	-	Java Greedy
 
@@ -148,11 +148,11 @@ Fibbonachi
 	-	Java HashSet
 	-	Java Xorin
 
-137 Single Number II
+0137 Single Number II (CHECKED)
 	-	Python3 Hashmap
 	-	Python3 Xor/And/Not Solution
 
-0179 Largest Number
+0179 Largest Number (CHECKED)
 	-	Java String Conversion / Comparison
 
 0190 Java Bit Reversal (CHECKED)
@@ -162,13 +162,16 @@ Fibbonachi
 	-	Java Bit Iteration
 	-	Java Anding Bit Manipulation
 
-0273 Integer to English Words
-	-	Java 
+0273 Integer to English Words (CHECKED)
+	-	Java Conversion
 
-0295 Find Median from Data Stream
+0295 Find Median from Data Stream (CHECKED)
 	-	Java Sorting
 
-1304 Find N Unique Integers Sum up to Zero
+0412 Fizz Buzz (CHECKED)
+	-	Java Modding Iteration
+
+1304 Find N Unique Integers Sum up to Zero (CHECKED)
 	-	Java Summation
 ```
 
@@ -352,7 +355,7 @@ Fibbonachi
 0061 Rotate List (CHECKED)
 	-	Java Loop/Break
 
-0088 Merge Sorted Array
+0088 Merge Sorted Array (CHECKED)
 	-	Java 3 Indices New Array Merge
 	-	Java 3 Indices Backwards Merge
 
@@ -552,7 +555,7 @@ Fibbonachi
 0022 Generate Parentheses (CHECKED)
 	-	Java Backtracking
 
-146 LRU Cache
+0146 LRU Cache (CHECKED)
 	-	Java LinkedHashMap
 	-	Python OrderedDict
 
@@ -566,13 +569,9 @@ Fibbonachi
 0346 Moving Average from Data Stream (CHECKED)
 	-	Java ArrayList
 
-0403 Frog Jump
+0403 Frog Jump (CHECKED)
 	-	Java Backtracking
 	-	Java hashMap & hashSet dynamic programming
-
-
-0412 Fizz Buzz
-	-	Java Modding Iteration
 
 0645 Set Mismatch
 	-	Java HashSet & Summation
