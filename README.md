@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-085/168
+095/178
 
 Other Topics:
 ```
@@ -104,7 +104,18 @@ Fibbonachi
 0545 Boundary of Binary Tree
 	-	Java Iterative / Recursive
 
+700 Search in a Binary Search Tree (CHECKED)
+	-	Java Recursion
+	-	Java Iterative
+
 0701 Insert into a Binary Search Tree
+	-	Java Recursive
+
+0938 Range Sum of BST (CHECKED)
+	-	Java Recursive
+	-	Java Iterative
+
+1469 Find All The Lonely Nodes (CHECKED)
 	-	Java Recursive
 ```
 
@@ -262,9 +273,14 @@ Fibbonachi
 1108 Defang IP (CHECKED)
 	-	Python3 split / join
 
+1119 Remove Vowels from a String
+	-	Java String iteration
+
 1239 Maximum Length of a Concatenated String with Unique Characters
 	-	Java Recursion
 
+1614 Maximum Nesting Depth of the Parentheses (CHECKED)
+	-	Java Iteration
 ```
 
 ## Grid problems
@@ -313,6 +329,9 @@ Fibbonachi
 
 0419 Battleships in a Board
 	-	Java HashSet
+
+0657 Robot Return to Origin (CHECKED)
+	-	Java Iteration w/ Switch Case
 
 0832 Flipping an Image
 	-	Java Iterate through 2D Array
@@ -411,6 +430,9 @@ Fibbonachi
 0300 Longest Increasing Subsequence
 	-	Java Recursion w/ memory
 
+0389 Find the Difference (CHECKED)
+	-	Java Sorting
+
 0442 Find All Duplicates in an Array (CHECKED)
 	-	Java Hashset
 	-	Java Array Spot Marking
@@ -428,14 +450,26 @@ Fibbonachi
 0941 Valid Mountain Array (CHECKED)
 	-	Java Iterative
 
+1085 Sum of Digits in the Minimum Number (CHECKED)
+	-	Java Iterative
+
 1313
 	-	Java Array Construction
 
 1365 How Many Numbers Are Smaller Than the Current Number
 	-	Java Nested Loops (CHECKED)
 
-1480	Running Sum of 1d Array (CHECKED)
+1413 Minimum Value to Get Positive Step by Step Sum (CHECKED)
+	-	Java Iterative Find Min
+
+1450 Number of Students Doing Homework at a Given Time (CHECKED)
+	-	Java Iteratrion
+
+1480 Running Sum of 1d Array (CHECKED)
 	-	Java Linear Iteration
+
+1652 Defuse the Bomb (CHECKED)
+	-	Java Iteration
 ```
 
 ## Linked Lists
