@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-095/178
+107/190
 
 Other Topics:
 ```
@@ -173,6 +173,10 @@ Fibbonachi
 	-	Java Bit Iteration
 	-	Java Anding Bit Manipulation
 
+0258 Add Digits (CHECKED)
+	-	Java Digit Sumnations
+	-	Java Mathematical Digital Root
+
 0273 Integer to English Words (CHECKED)
 	-	Java Conversion
 
@@ -181,6 +185,12 @@ Fibbonachi
 
 0412 Fizz Buzz (CHECKED)
 	-	Java Modding Iteration
+
+0476 Number Complement (CHECKED)
+	-	Java Bit Iteration
+
+0868 Binary Gap (CHECKED)
+	-	Java Binary Anding
 
 1304 Find N Unique Integers Sum up to Zero (CHECKED)
 	-	Java Summation
@@ -233,11 +243,17 @@ Fibbonachi
 	-	Java Iterative
 	-	Java Recursive
 
+0242 Valid Anagram (CHECKED)
+	-	Java Sorting
+
 0340 Longest Substring with At Most K Distinct Characters
 	-	Java Sliding Window HashMap
 
 0387 First Unique Character in a String (CHECKED)
 	-	Java Linear Pass Hashmap
+
+0392 Is Subsquence (CHECKED)
+	-	Java Queue
 
 0415 Add Strings (CHECKED)
 	-	Java Iterative String Concatenation
@@ -330,11 +346,17 @@ Fibbonachi
 0419 Battleships in a Board
 	-	Java HashSet
 
+0566 Reshape the Matrix (CHECKED)
+	-	Java Grid Iteration
+
 0657 Robot Return to Origin (CHECKED)
 	-	Java Iteration w/ Switch Case
 
 0832 Flipping an Image
 	-	Java Iterate through 2D Array
+
+0867 Transpose Matrix (CHECKED)
+	-	Java Deep Copy
 
 994 Rotting Oranges
 	-	Java Breadth First Search
@@ -447,11 +469,20 @@ Fibbonachi
 0845 Longest Mountain in Array (CHECKED)
 	-	Java Two Pointers
 
+0896 Monotonic Array (CHECKED)
+	-	Java Iteration
+
 0941 Valid Mountain Array (CHECKED)
 	-	Java Iterative
 
 1085 Sum of Digits in the Minimum Number (CHECKED)
 	-	Java Iterative
+
+1103 Distribute Candies to People (CHECKED)
+	-	Java Iterative
+
+1200 Minimum Absolute Difference (CHECKED)
+	-	Java Sorting/Adjacent Compares
 
 1313
 	-	Java Array Construction
@@ -461,6 +492,9 @@ Fibbonachi
 
 1413 Minimum Value to Get Positive Step by Step Sum (CHECKED)
 	-	Java Iterative Find Min
+
+1446 Consecutive Characters (CHECKED)
+	-	Java Iteration
 
 1450 Number of Students Doing Homework at a Given Time (CHECKED)
 	-	Java Iteratrion
@@ -537,6 +571,9 @@ Fibbonachi
 0234 Palindrome Linked List (CHECKED)
 	-	Java Stacks
 	-	Java Two Pointers List Reversal
+
+0237 Delete Node in a Linked List (CHECKED)
+	-	Java Node Shift
 
 0328 Odd Even Linked List (CHECKED)
 	-	Java Setinel Nodes
