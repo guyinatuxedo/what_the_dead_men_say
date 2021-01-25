@@ -18,7 +18,7 @@ stacks
 string_manipulation
 ```
 
-107/190
+11cd 7/200
 
 Other Topics:
 ```
@@ -186,11 +186,17 @@ Fibbonachi
 0412 Fizz Buzz (CHECKED)
 	-	Java Modding Iteration
 
+0461 Hamming Distance (CHECKED)
+	-	Java Bit Anding
+
 0476 Number Complement (CHECKED)
 	-	Java Bit Iteration
 
 0868 Binary Gap (CHECKED)
 	-	Java Binary Anding
+
+1133 Largest Unique Number (CHECKED)
+	-	Java Hashmap
 
 1304 Find N Unique Integers Sum up to Zero (CHECKED)
 	-	Java Summation
@@ -291,6 +297,9 @@ Fibbonachi
 
 1119 Remove Vowels from a String
 	-	Java String iteration
+
+1160 Find Words That Can Be Formed by Characters (CHECKED)
+	-	Java Hashmaps
 
 1239 Maximum Length of a Concatenated String with Unique Characters
 	-	Java Recursion
@@ -455,9 +464,15 @@ Fibbonachi
 0389 Find the Difference (CHECKED)
 	-	Java Sorting
 
+0349 Intersection of Two Arrays (CHECKED)
+	-	Java Hashsets
+
 0442 Find All Duplicates in an Array (CHECKED)
 	-	Java Hashset
 	-	Java Array Spot Marking
+
+0561  Array Partition I (CHECKED)
+	-	Java Sorting
 
 0567 String Permutation (CHECKED)
 	-	Java Array
@@ -469,11 +484,17 @@ Fibbonachi
 0845 Longest Mountain in Array (CHECKED)
 	-	Java Two Pointers
 
+0852 Peak Index in a Mountain Array (CHECKED)
+	-	Java Iteration
+
 0896 Monotonic Array (CHECKED)
 	-	Java Iteration
 
 0941 Valid Mountain Array (CHECKED)
 	-	Java Iterative
+
+1051 Height Checker (CHECKED)
+	-	Java Sorting
 
 1085 Sum of Digits in the Minimum Number (CHECKED)
 	-	Java Iterative
@@ -481,8 +502,14 @@ Fibbonachi
 1103 Distribute Candies to People (CHECKED)
 	-	Java Iterative
 
+1122 Relative Sort Array (CHECKED)
+	-	Java Hashmaps/Arraylist
+
 1200 Minimum Absolute Difference (CHECKED)
 	-	Java Sorting/Adjacent Compares
+
+1213 Intersection of Three Sorted Arrays (CHECKED)
+	-	Java HashSets
 
 1313
 	-	Java Array Construction
@@ -501,6 +528,9 @@ Fibbonachi
 
 1480 Running Sum of 1d Array (CHECKED)
 	-	Java Linear Iteration
+
+1550 Three Consecutive Odds (CHECKED)
+	-	Java Iteration
 
 1652 Defuse the Bomb (CHECKED)
 	-	Java Iteration
