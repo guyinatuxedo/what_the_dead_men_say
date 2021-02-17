@@ -78,6 +78,10 @@ So this is just a repo, I store my solutions for problems from `leetcode.com`.
 0545 Boundary of Binary Tree
 	-	Java Iterative / Recursive
 
+0559 Maximum Depth of N-ary Tree
+	-	Java Iterative
+	-	Java Recursive
+
 0700 Search in a Binary Search Tree
 	-	Java Recursion
 	-	Java Iterative
